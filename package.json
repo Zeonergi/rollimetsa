@@ -1,0 +1,22 @@
+{
+  "name": "rolli-front",
+  "version": "1.0.1",
+  "description": "testi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeonergi/rollimetsa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeonergi/rollimetsa/issues"
+  },
+  "homepage": "https://github.com/Zeonergi/rollimetsa#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
